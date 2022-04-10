@@ -1,5 +1,4 @@
 import discord
-import random
 import praw
 from discord.ext import commands
 import Information
